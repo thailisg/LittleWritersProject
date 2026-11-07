@@ -22,11 +22,9 @@ I designed this app with writers in mind. I personally enjoy writing stories, an
 that I feel stop the creative process. That’s why I decided to develop my own app to eliminate those limitations and address the aspects I wanted to improve. 
 This is just the first version, is basic, but my goal is to create a user friendly Android app that’s free from those annoying limitations.
 
-## video pendiente
+## Software demonstration video
 
-[Software Demo Video](http://youtube.link.goes.here)
-
-Software demonstration video
+[Software Demo Video](https://youtu.be/zZL4ZuDJ5ws)
 
 # Development Environment
 
@@ -44,6 +42,7 @@ To develop Little Writers, I used the following:
 - [Official Kotlin documentation](https://kotlinlang.org/docs/home.html)
 - [Kotlin course on YouTube](https://www.youtube.com/watch?v=i1PNVWd_dTY&list=PL8ie04dqq7_OcBYDpvHrcSFVoggLi3cm_)
 - [Kotlinx Serialization JSON documentation](https://kotlinlang.org/api/kotlinx.serialization/kotlinx-serialization-json/kotlinx.serialization.json/)
+- [Kotlin Mutable List](https://www.dhiwise.com/post/kotlin-mutable-list-adding-removing-and-updating-elements)
 
 # Future Work
 
